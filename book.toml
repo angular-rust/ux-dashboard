@@ -1,0 +1,13 @@
+[book]
+title = "Seed Material Components"
+authors = ["Victor Dudochkin"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+theme = "src/theme"
+site-url = "/seed-components/"

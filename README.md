@@ -1,1 +1,1 @@
-# seed-components
+# seed-components github pages
